@@ -1,4 +1,8 @@
-## Hi there 👋
+## notsergxlove 
+
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 
 <!--
 **notsergxlove/notsergxlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
